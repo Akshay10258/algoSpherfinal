@@ -1,0 +1,51 @@
+Bank Name,Loan Type,Interest Rate (%),Minimum Income Required (INR),Maximum Loan Amount (INR),Loan Tenure (years),Processing Fee (%),Prepayment Charges (%),CIBIL Score Requirement,Employment Type,Existing Loan Consideration,Credit Utilization (%)
+Bank of Baroda,Agricultural Loan,11.58,700000,1000000,10,0.57,2.18,700,Farmer,Yes,<30%
+Bank of Baroda,Vehicle Loan,6.98,200000,5000000,10,1.95,2.5,700,Farmer,Yes,50-70%
+Kotak Mahindra,Home Loan,13.66,200000,1000000,20,0.7,0.35,700,Farmer,No,30-50%
+Axis Bank,Education Loan,9.88,300000,500000,5,1.82,2.12,700,Farmer,No,50-70%
+ICICI,Business Loan,13.84,500000,5000000,15,0.69,1.49,750,Business Owner,No,50-70%
+Bank of Baroda,Agricultural Loan,9.16,300000,5000000,5,1.9,0.47,700,Farmer,No,50-70%
+HDFC,Home Loan,12.8,200000,5000000,5,1.13,2.88,800,Salaried,Yes,30-50%
+ICICI,Business Loan,11.89,200000,1000000,15,0.68,2.66,700,Salaried,No,50-70%
+Axis Bank,Home Loan,12.37,700000,2000000,20,2.02,0.29,650,Self-Employed,No,>70%
+ICICI,Personal Loan,11.77,700000,2000000,10,0.74,2.76,750,Farmer,No,50-70%
+PNB,Agricultural Loan,12.5,300000,2000000,5,1.54,2.21,650,Farmer,No,50-70%
+Kotak Mahindra,Personal Loan,7.22,200000,1000000,15,2.11,1.89,800,Salaried,Yes,<30%
+SBI,Business Loan,14.71,700000,5000000,5,2.48,0.75,800,Self-Employed,Yes,<30%
+Axis Bank,Personal Loan,13.84,300000,500000,5,1.5,0.9,800,Self-Employed,No,<30%
+ICICI,Vehicle Loan,8.86,500000,2000000,5,1.8,1.27,800,Business Owner,Yes,<30%
+HDFC,Agricultural Loan,14.21,200000,1000000,10,2.14,2.82,650,Farmer,Yes,>70%
+PNB,Business Loan,7.34,700000,2000000,20,0.64,0.05,700,Self-Employed,No,50-70%
+ICICI,Education Loan,11.71,500000,500000,10,2.28,0.69,700,Business Owner,No,30-50%
+SBI,Personal Loan,8.85,500000,1000000,15,0.55,0.48,750,Self-Employed,Yes,30-50%
+PNB,Business Loan,9.59,200000,2000000,15,1.57,2.17,650,Self-Employed,No,30-50%
+PNB,Agricultural Loan,9.45,300000,2000000,15,2.47,0.88,650,Farmer,Yes,>70%
+Axis Bank,Personal Loan,6.88,700000,2000000,10,0.86,1.56,650,Farmer,No,>70%
+PNB,Personal Loan,7.98,300000,1000000,10,1.04,1.78,800,Business Owner,Yes,>70%
+Bank of Baroda,Business Loan,14.24,500000,5000000,20,1.03,2.43,800,Salaried,No,30-50%
+HDFC,Home Loan,12.38,200000,5000000,10,0.95,0.35,750,Farmer,Yes,<30%
+ICICI,Agricultural Loan,14.14,700000,1000000,10,2.06,2.97,650,Farmer,Yes,>70%
+PNB,Vehicle Loan,7.73,500000,1000000,15,2.05,1.04,700,Self-Employed,Yes,>70%
+HDFC,Business Loan,8.89,700000,1000000,5,0.66,1.79,800,Salaried,Yes,>70%
+SBI,Business Loan,8.84,300000,2000000,15,2.41,0.08,700,Salaried,No,50-70%
+HDFC,Personal Loan,11.41,500000,2000000,5,1.98,0.12,650,Salaried,Yes,>70%
+Kotak Mahindra,Agricultural Loan,8.75,200000,2000000,15,0.62,0.53,700,Farmer,Yes,50-70%
+HDFC,Vehicle Loan,13.41,300000,500000,5,0.61,1.57,650,Salaried,No,30-50%
+SBI,Business Loan,14.55,300000,1000000,20,1.81,2.98,650,Farmer,No,<30%
+Kotak Mahindra,Education Loan,7.76,300000,1000000,5,1.61,2.76,800,Business Owner,Yes,50-70%
+PNB,Education Loan,11.51,200000,5000000,5,1.63,2.38,700,Business Owner,No,>70%
+Axis Bank,Agricultural Loan,11.56,500000,500000,20,1.05,1.57,750,Farmer,No,30-50%
+HDFC,Vehicle Loan,8.32,700000,5000000,20,1.13,0.54,650,Business Owner,Yes,30-50%
+HDFC,Business Loan,10.49,200000,500000,5,0.57,1.13,700,Business Owner,No,<30%
+SBI,Business Loan,14.68,300000,2000000,20,1.7,1.16,650,Salaried,Yes,>70%
+SBI,Vehicle Loan,13.17,500000,2000000,5,0.6,0.88,700,Business Owner,Yes,>70%
+PNB,Agricultural Loan,10.4,700000,2000000,20,1.14,1.49,650,Farmer,Yes,<30%
+Bank of Baroda,Business Loan,13.65,700000,1000000,15,2.25,1.16,650,Self-Employed,Yes,50-70%
+Bank of Baroda,Education Loan,12.56,700000,500000,15,1.31,0.43,650,Farmer,No,50-70%
+Axis Bank,Personal Loan,12.21,500000,500000,20,1.35,1.13,700,Farmer,Yes,<30%
+ICICI,Home Loan,14.03,300000,5000000,5,2.02,1.68,750,Salaried,No,>70%
+Axis Bank,Agricultural Loan,8.82,200000,1000000,15,2.39,2.14,750,Farmer,No,50-70%
+HDFC,Personal Loan,6.7,700000,500000,20,0.79,0.53,750,Business Owner,No,<30%
+SBI,Home Loan,9.59,200000,500000,20,1.41,2.88,650,Self-Employed,No,>70%
+SBI,Home Loan,7.79,500000,500000,5,2.18,2.86,800,Farmer,Yes,<30%
+ICICI,Business Loan,7.65,300000,1000000,15,0.79,2.48,650,Self-Employed,Yes,>70%
