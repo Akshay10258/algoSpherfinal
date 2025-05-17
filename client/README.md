@@ -4,12 +4,10 @@ A conversational AI chatbot that helps users with loan-related queries, eligibil
 
 ## Features
 
-- User authentication (login/signup)
 - Loan eligibility check
-- EMI calculator
-- FAQs about loans
 - Voice input using Sarvam AI speech-to-text API
 - Responsive design for all device sizes
+- User authentication (login/signup)
 
 ## Setup Instructions
 
